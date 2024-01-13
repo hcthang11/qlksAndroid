@@ -10,7 +10,6 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import android.content.DialogInterface;
 import android.os.Bundle;
 import android.os.Handler;
 import android.text.Editable;

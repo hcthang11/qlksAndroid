@@ -1,6 +1,5 @@
 package com.ming6464.ungdungquanlykhachsanmctl.DTO;
 
-import androidx.annotation.Nullable;
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
 
